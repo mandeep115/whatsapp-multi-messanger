@@ -1,4 +1,4 @@
-# whatsapp-multi-messanger
+# whatsapp-multi-messenger
 Send messages to multiple people without saving their number 
 
 ## Things you will require
